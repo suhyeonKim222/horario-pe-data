@@ -1,0 +1,85 @@
+{
+  "courses": [
+    {
+      "course_code": "2011801",
+      "credits": 4.0,
+      "faculty": "Facultad de Ingeniería de Sistemas e Informática",
+      "name": "Algorítmica I",
+      "sections": [
+        {
+          "horario_code": "1",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "PEÑA QUISPE, CARLOS",
+            "RÍOS VERA, ANA"
+          ],
+          "section_id": "2011801-1",
+          "sessions": [
+            {
+              "building": null,
+              "day": 1,
+              "end_min": 600,
+              "room": "NP-204",
+              "start_min": 480,
+              "type": "CLASE"
+            },
+            {
+              "building": null,
+              "day": 3,
+              "end_min": 600,
+              "room": "NP-204",
+              "start_min": 480,
+              "type": "PRACTICA"
+            },
+            {
+              "building": null,
+              "day": 5,
+              "end_min": 720,
+              "room": "Lab 3",
+              "start_min": 600,
+              "type": "LABORATORIO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_code": "2011802",
+      "credits": 4.5,
+      "faculty": "Facultad de Ingeniería de Sistemas e Informática",
+      "name": "Cálculo I",
+      "sections": [
+        {
+          "horario_code": "G1",
+          "modality": "SEMIPRESENCIAL",
+          "professors": [
+            "LÓPEZ ÁLVAREZ, MARÍA"
+          ],
+          "section_id": "2011802-G1",
+          "sessions": [
+            {
+              "building": null,
+              "day": 2,
+              "end_min": 960,
+              "room": "NP-101",
+              "start_min": 840,
+              "type": "CLASE"
+            },
+            {
+              "building": null,
+              "day": 6,
+              "end_min": 660,
+              "room": "Virtual",
+              "start_min": 540,
+              "type": "PRACTICA"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "data_version": 1,
+  "generated_at": "2026-11-26T15:31:33-05:00",
+  "term_id": "2027-1",
+  "university_id": "unmsm"
+}

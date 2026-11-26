@@ -1,0 +1,144 @@
+{
+  "courses": [
+    {
+      "course_code": "FIL101",
+      "credits": 3.0,
+      "faculty": "Estudios Generales Ciencias",
+      "name": "Introducción a la Filosofía",
+      "sections": [
+        {
+          "horario_code": "0101",
+          "modality": "VIRTUAL",
+          "professors": [],
+          "section_id": "FIL101-0101",
+          "sessions": [
+            {
+              "building": "Paideia",
+              "day": 1,
+              "end_min": 1200,
+              "room": "Zoom",
+              "start_min": 1080,
+              "type": "CLASE"
+            },
+            {
+              "building": "Paideia",
+              "day": 3,
+              "end_min": 1200,
+              "room": "Zoom",
+              "start_min": 1080,
+              "type": "CLASE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_code": "INF246",
+      "credits": 4.0,
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "name": "Bases de Datos",
+      "sections": [
+        {
+          "horario_code": "0581",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "MUÑOZ PEÑA, JOSÉ ANTONIO",
+            "CÁCERES DÍAZ, SOFÍA"
+          ],
+          "section_id": "INF246-0581",
+          "sessions": [
+            {
+              "building": "Pabellón V",
+              "day": 2,
+              "end_min": 720,
+              "room": "V-205",
+              "start_min": 600,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón V",
+              "day": 6,
+              "end_min": 660,
+              "room": "LAB-V104",
+              "start_min": 540,
+              "type": "LABORATORIO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_code": "MAT155",
+      "credits": 4.5,
+      "faculty": "Estudios Generales Ciencias",
+      "name": "Cálculo en una Variable",
+      "sections": [
+        {
+          "horario_code": "0201",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "GARCÍA PÉREZ, JUAN",
+            "QUISPE RAMOS, MARÍA ELENA"
+          ],
+          "section_id": "MAT155-0201",
+          "sessions": [
+            {
+              "building": "Pabellón A",
+              "day": 1,
+              "end_min": 600,
+              "room": "A-204",
+              "start_min": 480,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón A",
+              "day": 3,
+              "end_min": 600,
+              "room": "A-204",
+              "start_min": 480,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón V",
+              "day": 5,
+              "end_min": 720,
+              "room": "V-102",
+              "start_min": 600,
+              "type": "PRACTICA"
+            }
+          ]
+        },
+        {
+          "horario_code": "0202",
+          "modality": "SEMIPRESENCIAL",
+          "professors": [
+            "FLORES CÓRDOVA, LUIS"
+          ],
+          "section_id": "MAT155-0202",
+          "sessions": [
+            {
+              "building": "Pabellón Z",
+              "day": 2,
+              "end_min": 960,
+              "room": "Z-305",
+              "start_min": 840,
+              "type": "CLASE"
+            },
+            {
+              "building": null,
+              "day": 4,
+              "end_min": 960,
+              "room": "Virtual",
+              "start_min": 840,
+              "type": "PRACTICA"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "data_version": 1,
+  "generated_at": "2026-11-26T15:31:32-05:00",
+  "term_id": "2027-1",
+  "university_id": "pucp"
+}

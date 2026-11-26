@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "universities": [
+    {
+      "id": "pucp",
+      "name": "Pontificia Universidad Católica del Perú",
+      "short_name": "PUCP",
+      "terms": [
+        {
+          "data_version": 1,
+          "label": "Ciclo 2027-1",
+          "sha256": "347fec59a8b5b1fa6fd54093d683fd6ef3dfebe114ba1bbf6921e37237bda225",
+          "size_bytes": 3645,
+          "term_id": "2027-1",
+          "url": "universities/pucp/2027-1.json"
+        }
+      ]
+    },
+    {
+      "id": "unmsm",
+      "name": "Universidad Nacional Mayor de San Marcos",
+      "short_name": "UNMSM",
+      "terms": [
+        {
+          "data_version": 1,
+          "label": "Semestre 2027-1",
+          "sha256": "8544304f56f96dd02ef266cfcdff0274f8296d34c1395be569a5f6a030147017",
+          "size_bytes": 2096,
+          "term_id": "2027-1",
+          "url": "universities/unmsm/2027-1.json"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-11-26T15:31:33-05:00"
+}
