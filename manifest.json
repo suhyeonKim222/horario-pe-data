@@ -7,6 +7,14 @@
       "short_name": "PUCP",
       "terms": [
         {
+          "data_version": 1,
+          "label": "Verano 2027-0",
+          "sha256": "bea160c3c214296cadfcb10f0a698cf9c14f29d0ec4523972dc719cbda8bc7d3",
+          "size_bytes": 22495,
+          "term_id": "2027-0",
+          "url": "universities/pucp/2027-0.json"
+        },
+        {
           "data_version": 2,
           "label": "Ciclo 2027-1",
           "sha256": "a24ba9551d8af73c9b3025ea6dc65f48a407586bf1090c2b3f05f48e437e3e0d",
@@ -32,5 +40,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-26T15:53:39-05:00"
+  "updated_at": "2026-11-26T17:15:15-05:00"
 }

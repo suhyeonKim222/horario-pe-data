@@ -1,0 +1,862 @@
+{
+  "courses": [
+    {
+      "course_code": "EST105",
+      "credits": 4.0,
+      "faculty": "Estudios Generales Ciencias",
+      "name": "Estadística Aplicada",
+      "sections": [
+        {
+          "horario_code": "0831",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "ZÚÑIGA CASTILLO, MARTÍN",
+            "RODRÍGUEZ GUTIÉRREZ, MIGUEL"
+          ],
+          "section_id": "EST105-0831",
+          "sessions": [
+            {
+              "building": "Pabellón E",
+              "day": 1,
+              "end_min": 885,
+              "room": "E-301",
+              "start_min": 720,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón E",
+              "day": 3,
+              "end_min": 885,
+              "room": "E-301",
+              "start_min": 720,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón E",
+              "day": 4,
+              "end_min": 765,
+              "room": "E-301",
+              "start_min": 600,
+              "type": "PRACTICA"
+            }
+          ]
+        },
+        {
+          "horario_code": "0832",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "VILLANUEVA RÍOS, CARLOS"
+          ],
+          "section_id": "EST105-0832",
+          "sessions": [
+            {
+              "building": "Pabellón E",
+              "day": 2,
+              "end_min": 885,
+              "room": "E-302",
+              "start_min": 720,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón E",
+              "day": 4,
+              "end_min": 885,
+              "room": "E-302",
+              "start_min": 720,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón E",
+              "day": 5,
+              "end_min": 645,
+              "room": "LAB-E-302",
+              "start_min": 480,
+              "type": "LABORATORIO"
+            }
+          ]
+        },
+        {
+          "horario_code": "0833",
+          "modality": "VIRTUAL",
+          "professors": [
+            "FERNÁNDEZ ÁLVAREZ, LUCÍA",
+            "GARCÍA PÉREZ, JUAN"
+          ],
+          "section_id": "EST105-0833",
+          "sessions": [
+            {
+              "building": null,
+              "day": 2,
+              "end_min": 1125,
+              "room": "Zoom",
+              "start_min": 960,
+              "type": "CLASE"
+            },
+            {
+              "building": null,
+              "day": 3,
+              "end_min": 1245,
+              "room": "Zoom",
+              "start_min": 1080,
+              "type": "PRACTICA"
+            },
+            {
+              "building": null,
+              "day": 4,
+              "end_min": 1125,
+              "room": "Paideia",
+              "start_min": 960,
+              "type": "CLASE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_code": "FIL101",
+      "credits": 3.0,
+      "faculty": "Estudios Generales Letras",
+      "name": "Introducción a la Filosofía",
+      "sections": [
+        {
+          "horario_code": "0861",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "GARCÍA PÉREZ, JUAN",
+            "NÚÑEZ SALAZAR, PEDRO"
+          ],
+          "section_id": "FIL101-0861",
+          "sessions": [
+            {
+              "building": "Pabellón H",
+              "day": 2,
+              "end_min": 645,
+              "room": "H-201",
+              "start_min": 480,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón H",
+              "day": 4,
+              "end_min": 645,
+              "room": "H-201",
+              "start_min": 480,
+              "type": "CLASE"
+            }
+          ]
+        },
+        {
+          "horario_code": "0862",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "FLORES CÓRDOVA, LUIS"
+          ],
+          "section_id": "FIL101-0862",
+          "sessions": [
+            {
+              "building": "Pabellón H",
+              "day": 2,
+              "end_min": 765,
+              "room": "H-202",
+              "start_min": 600,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón H",
+              "day": 4,
+              "end_min": 765,
+              "room": "H-202",
+              "start_min": 600,
+              "type": "CLASE"
+            }
+          ]
+        },
+        {
+          "horario_code": "0863",
+          "modality": "SEMIPRESENCIAL",
+          "professors": [
+            "CÁCERES DÍAZ, SOFÍA",
+            "ZÚÑIGA CASTILLO, MARTÍN"
+          ],
+          "section_id": "FIL101-0863",
+          "sessions": [
+            {
+              "building": "Pabellón H",
+              "day": 1,
+              "end_min": 1125,
+              "room": "H-203",
+              "start_min": 960,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón H",
+              "day": 3,
+              "end_min": 1125,
+              "room": "H-203",
+              "start_min": 960,
+              "type": "CLASE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_code": "FIS101",
+      "credits": 4.5,
+      "faculty": "Estudios Generales Ciencias",
+      "name": "Física 1",
+      "sections": [
+        {
+          "horario_code": "0821",
+          "modality": "VIRTUAL",
+          "professors": [
+            "SÁNCHEZ TORRES, CLAUDIA",
+            "VILLANUEVA RÍOS, CARLOS"
+          ],
+          "section_id": "FIS101-0821",
+          "sessions": [
+            {
+              "building": null,
+              "day": 1,
+              "end_min": 1005,
+              "room": "Zoom",
+              "start_min": 840,
+              "type": "CLASE"
+            },
+            {
+              "building": null,
+              "day": 2,
+              "end_min": 1245,
+              "room": "Zoom",
+              "start_min": 1080,
+              "type": "LABORATORIO"
+            },
+            {
+              "building": null,
+              "day": 3,
+              "end_min": 1005,
+              "room": "Paideia",
+              "start_min": 840,
+              "type": "CLASE"
+            }
+          ]
+        },
+        {
+          "horario_code": "0822",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "VALDERRAMA LÓPEZ, ANDREA"
+          ],
+          "section_id": "FIS101-0822",
+          "sessions": [
+            {
+              "building": "Pabellón F",
+              "day": 1,
+              "end_min": 885,
+              "room": "F-102",
+              "start_min": 720,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón F",
+              "day": 3,
+              "end_min": 885,
+              "room": "F-102",
+              "start_min": 720,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón F",
+              "day": 4,
+              "end_min": 765,
+              "room": "LAB-F-102",
+              "start_min": 600,
+              "type": "LABORATORIO"
+            }
+          ]
+        },
+        {
+          "horario_code": "0823",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "ALARCÓN VÁSQUEZ, PAOLA",
+            "DELGADO BENÍTEZ, VALERIA"
+          ],
+          "section_id": "FIS101-0823",
+          "sessions": [
+            {
+              "building": "Pabellón F",
+              "day": 2,
+              "end_min": 885,
+              "room": "F-103",
+              "start_min": 720,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón F",
+              "day": 4,
+              "end_min": 885,
+              "room": "F-103",
+              "start_min": 720,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón F",
+              "day": 5,
+              "end_min": 645,
+              "room": "LAB-F-103",
+              "start_min": 480,
+              "type": "LABORATORIO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_code": "HIS102",
+      "credits": 3.5,
+      "faculty": "Estudios Generales Letras",
+      "name": "Historia del Perú Contemporáneo",
+      "sections": [
+        {
+          "horario_code": "0871",
+          "modality": "SEMIPRESENCIAL",
+          "professors": [
+            "MUÑOZ PEÑA, JOSÉ ANTONIO",
+            "VALDERRAMA LÓPEZ, ANDREA"
+          ],
+          "section_id": "HIS102-0871",
+          "sessions": [
+            {
+              "building": "Pabellón L",
+              "day": 1,
+              "end_min": 1125,
+              "room": "L-201",
+              "start_min": 960,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón L",
+              "day": 3,
+              "end_min": 1125,
+              "room": "L-201",
+              "start_min": 960,
+              "type": "CLASE"
+            }
+          ]
+        },
+        {
+          "horario_code": "0872",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "NÚÑEZ SALAZAR, PEDRO"
+          ],
+          "section_id": "HIS102-0872",
+          "sessions": [
+            {
+              "building": "Pabellón L",
+              "day": 1,
+              "end_min": 585,
+              "room": "L-202",
+              "start_min": 420,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón L",
+              "day": 3,
+              "end_min": 585,
+              "room": "L-202",
+              "start_min": 420,
+              "type": "CLASE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_code": "INF246",
+      "credits": 4.0,
+      "faculty": "Facultad de Ciencias e Ingeniería",
+      "name": "Bases de Datos",
+      "sections": [
+        {
+          "horario_code": "0841",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "HUAMÁN PAREDES, DIEGO",
+            "MORALES IBARRA, PATRICIA"
+          ],
+          "section_id": "INF246-0841",
+          "sessions": [
+            {
+              "building": "Pabellón V",
+              "day": 2,
+              "end_min": 885,
+              "room": "V-201",
+              "start_min": 720,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón V",
+              "day": 4,
+              "end_min": 885,
+              "room": "V-201",
+              "start_min": 720,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón V",
+              "day": 5,
+              "end_min": 645,
+              "room": "LAB-V-201",
+              "start_min": 480,
+              "type": "LABORATORIO"
+            }
+          ]
+        },
+        {
+          "horario_code": "0842",
+          "modality": "VIRTUAL",
+          "professors": [
+            "RODRÍGUEZ GUTIÉRREZ, MIGUEL"
+          ],
+          "section_id": "INF246-0842",
+          "sessions": [
+            {
+              "building": null,
+              "day": 2,
+              "end_min": 1125,
+              "room": "Zoom",
+              "start_min": 960,
+              "type": "CLASE"
+            },
+            {
+              "building": null,
+              "day": 3,
+              "end_min": 1245,
+              "room": "Zoom",
+              "start_min": 1080,
+              "type": "LABORATORIO"
+            },
+            {
+              "building": null,
+              "day": 4,
+              "end_min": 1125,
+              "room": "Paideia",
+              "start_min": 960,
+              "type": "CLASE"
+            }
+          ]
+        },
+        {
+          "horario_code": "0843",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "ESPINOZA LEÓN, FERNANDO",
+            "MUÑOZ PEÑA, JOSÉ ANTONIO"
+          ],
+          "section_id": "INF246-0843",
+          "sessions": [
+            {
+              "building": "Pabellón V",
+              "day": 1,
+              "end_min": 645,
+              "room": "V-203",
+              "start_min": 480,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón V",
+              "day": 3,
+              "end_min": 645,
+              "room": "V-203",
+              "start_min": 480,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón V",
+              "day": 5,
+              "end_min": 765,
+              "room": "LAB-V-203",
+              "start_min": 600,
+              "type": "LABORATORIO"
+            }
+          ]
+        },
+        {
+          "horario_code": "0844",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "GARCÍA PÉREZ, JUAN"
+          ],
+          "section_id": "INF246-0844",
+          "sessions": [
+            {
+              "building": "Pabellón V",
+              "day": 2,
+              "end_min": 645,
+              "room": "V-204",
+              "start_min": 480,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón V",
+              "day": 4,
+              "end_min": 645,
+              "room": "V-204",
+              "start_min": 480,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón V",
+              "day": 6,
+              "end_min": 705,
+              "room": "LAB-V-204",
+              "start_min": 540,
+              "type": "LABORATORIO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_code": "LET102",
+      "credits": 4.0,
+      "faculty": "Estudios Generales Letras",
+      "name": "Redacción y Comunicación",
+      "sections": [
+        {
+          "horario_code": "0851",
+          "modality": "VIRTUAL",
+          "professors": [
+            "DELGADO BENÍTEZ, VALERIA",
+            "FLORES CÓRDOVA, LUIS"
+          ],
+          "section_id": "LET102-0851",
+          "sessions": [
+            {
+              "building": null,
+              "day": 2,
+              "end_min": 1125,
+              "room": "Zoom",
+              "start_min": 960,
+              "type": "CLASE"
+            },
+            {
+              "building": null,
+              "day": 3,
+              "end_min": 1245,
+              "room": "Zoom",
+              "start_min": 1080,
+              "type": "PRACTICA"
+            },
+            {
+              "building": null,
+              "day": 4,
+              "end_min": 1125,
+              "room": "Paideia",
+              "start_min": 960,
+              "type": "CLASE"
+            }
+          ]
+        },
+        {
+          "horario_code": "0852",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "MORALES IBARRA, PATRICIA"
+          ],
+          "section_id": "LET102-0852",
+          "sessions": [
+            {
+              "building": "Pabellón L",
+              "day": 1,
+              "end_min": 645,
+              "room": "L-102",
+              "start_min": 480,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón L",
+              "day": 3,
+              "end_min": 645,
+              "room": "L-102",
+              "start_min": 480,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón L",
+              "day": 5,
+              "end_min": 765,
+              "room": "L-102",
+              "start_min": 600,
+              "type": "PRACTICA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_code": "MAT145",
+      "credits": 4.5,
+      "faculty": "Estudios Generales Ciencias",
+      "name": "Álgebra Matricial y Geometría Analítica",
+      "sections": [
+        {
+          "horario_code": "0811",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "MUÑOZ PEÑA, JOSÉ ANTONIO",
+            "VALDERRAMA LÓPEZ, ANDREA"
+          ],
+          "section_id": "MAT145-0811",
+          "sessions": [
+            {
+              "building": "Pabellón A",
+              "day": 1,
+              "end_min": 765,
+              "room": "A-301",
+              "start_min": 600,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón A",
+              "day": 3,
+              "end_min": 765,
+              "room": "A-301",
+              "start_min": 600,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón A",
+              "day": 4,
+              "end_min": 1125,
+              "room": "A-301",
+              "start_min": 960,
+              "type": "PRACTICA"
+            }
+          ]
+        },
+        {
+          "horario_code": "0812",
+          "modality": "VIRTUAL",
+          "professors": [
+            "NÚÑEZ SALAZAR, PEDRO"
+          ],
+          "section_id": "MAT145-0812",
+          "sessions": [
+            {
+              "building": null,
+              "day": 1,
+              "end_min": 1005,
+              "room": "Zoom",
+              "start_min": 840,
+              "type": "CLASE"
+            },
+            {
+              "building": null,
+              "day": 2,
+              "end_min": 1245,
+              "room": "Zoom",
+              "start_min": 1080,
+              "type": "PRACTICA"
+            },
+            {
+              "building": null,
+              "day": 3,
+              "end_min": 1005,
+              "room": "Paideia",
+              "start_min": 840,
+              "type": "CLASE"
+            }
+          ]
+        },
+        {
+          "horario_code": "0813",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "CHÁVEZ MENDOZA, RICARDO",
+            "HUAMÁN PAREDES, DIEGO"
+          ],
+          "section_id": "MAT145-0813",
+          "sessions": [
+            {
+              "building": "Pabellón A",
+              "day": 1,
+              "end_min": 885,
+              "room": "A-303",
+              "start_min": 720,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón A",
+              "day": 3,
+              "end_min": 885,
+              "room": "A-303",
+              "start_min": 720,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón A",
+              "day": 4,
+              "end_min": 765,
+              "room": "A-303",
+              "start_min": 600,
+              "type": "PRACTICA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_code": "MAT155",
+      "credits": 4.5,
+      "faculty": "Estudios Generales Ciencias",
+      "name": "Cálculo en una Variable",
+      "sections": [
+        {
+          "horario_code": "0801",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "GARCÍA PÉREZ, JUAN",
+            "NÚÑEZ SALAZAR, PEDRO"
+          ],
+          "section_id": "MAT155-0801",
+          "sessions": [
+            {
+              "building": "Pabellón A",
+              "day": 1,
+              "end_min": 645,
+              "room": "A-201",
+              "start_min": 480,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón A",
+              "day": 3,
+              "end_min": 645,
+              "room": "A-201",
+              "start_min": 480,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón A",
+              "day": 5,
+              "end_min": 765,
+              "room": "A-201",
+              "start_min": 600,
+              "type": "PRACTICA"
+            }
+          ]
+        },
+        {
+          "horario_code": "0802",
+          "modality": "PRESENCIAL",
+          "professors": [
+            "FLORES CÓRDOVA, LUIS"
+          ],
+          "section_id": "MAT155-0802",
+          "sessions": [
+            {
+              "building": "Pabellón A",
+              "day": 1,
+              "end_min": 765,
+              "room": "A-202",
+              "start_min": 600,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón A",
+              "day": 3,
+              "end_min": 765,
+              "room": "A-202",
+              "start_min": 600,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón A",
+              "day": 4,
+              "end_min": 1125,
+              "room": "A-202",
+              "start_min": 960,
+              "type": "PRACTICA"
+            }
+          ]
+        },
+        {
+          "horario_code": "0803",
+          "modality": "VIRTUAL",
+          "professors": [
+            "CÁCERES DÍAZ, SOFÍA",
+            "ZÚÑIGA CASTILLO, MARTÍN"
+          ],
+          "section_id": "MAT155-0803",
+          "sessions": [
+            {
+              "building": null,
+              "day": 1,
+              "end_min": 1005,
+              "room": "Zoom",
+              "start_min": 840,
+              "type": "CLASE"
+            },
+            {
+              "building": null,
+              "day": 2,
+              "end_min": 1245,
+              "room": "Zoom",
+              "start_min": 1080,
+              "type": "PRACTICA"
+            },
+            {
+              "building": null,
+              "day": 3,
+              "end_min": 1005,
+              "room": "Paideia",
+              "start_min": 840,
+              "type": "CLASE"
+            }
+          ]
+        },
+        {
+          "horario_code": "0804",
+          "modality": "SEMIPRESENCIAL",
+          "professors": [
+            "SÁNCHEZ TORRES, CLAUDIA"
+          ],
+          "section_id": "MAT155-0804",
+          "sessions": [
+            {
+              "building": "Pabellón A",
+              "day": 1,
+              "end_min": 1125,
+              "room": "A-204",
+              "start_min": 960,
+              "type": "CLASE"
+            },
+            {
+              "building": "Pabellón A",
+              "day": 3,
+              "end_min": 1125,
+              "room": "A-204",
+              "start_min": 960,
+              "type": "CLASE"
+            },
+            {
+              "building": null,
+              "day": 4,
+              "end_min": 1245,
+              "room": "Zoom",
+              "start_min": 1080,
+              "type": "PRACTICA"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "data_version": 1,
+  "generated_at": "2026-11-26T17:07:18-05:00",
+  "term_id": "2027-0",
+  "university_id": "pucp"
+}
