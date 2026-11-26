@@ -7,10 +7,10 @@
       "short_name": "PUCP",
       "terms": [
         {
-          "data_version": 1,
+          "data_version": 2,
           "label": "Ciclo 2027-1",
-          "sha256": "347fec59a8b5b1fa6fd54093d683fd6ef3dfebe114ba1bbf6921e37237bda225",
-          "size_bytes": 3645,
+          "sha256": "a24ba9551d8af73c9b3025ea6dc65f48a407586bf1090c2b3f05f48e437e3e0d",
+          "size_bytes": 74830,
           "term_id": "2027-1",
           "url": "universities/pucp/2027-1.json"
         }
@@ -32,5 +32,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-26T15:31:33-05:00"
+  "updated_at": "2026-11-26T15:53:39-05:00"
 }
